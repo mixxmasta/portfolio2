@@ -6496,4 +6496,381 @@ button[name^="closePic"]{
 		
 		
 		}
+
+
+
+}
+
+
+
+/****************** Height 825px and below**************************************/
+
+@media (max-height: 900px) {
+
+
+
+	dialog{
+  
+		width:100%;
+		height: auto;
+		background-color: white;
+		border: none;
+		display: flex;
+		top:5em;
+		
+		z-index: 996;
+		position: fixed;
+	  
+		left:0;
+		
+	  }
+	  
+	  dialog::backdrop{
+		background-color: #000;
+		opacity: 60%;
+	  }
+	  
+	  
+	  
+	  #form1{
+	  
+		  width:100%;
+		  min-width:260px;
+		  /*max-width: 1200px;*/
+	  
+		  
+		  height: auto !important;
+		  margin: auto;
+		  padding: 20px;
+		  box-shadow: 0 4px 8px 0 rgb(0,0,0,0.5);
+		  display: block;
+		  flex-wrap: wrap;
+		  justify-content: space-between;
+		
+		  border-radius: 2px;
+		  position: relative;
+		  /*background-color: red;*/
+		 
+	  }
+	  
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/****************** Height 825px and below**************************************/
+
+@media (max-height: 825px) {
+
+
+	dialog{
+  
+		width:100%;
+		height: auto;
+		background-color: white;
+		border: none;
+		display: flex;
+		top:5em;
+		
+		z-index: 996;
+		position: fixed;
+	  
+		left:0;
+		
+	  }
+	  
+	  dialog::backdrop{
+		background-color: #000;
+		opacity: 60%;
+	  }
+	  
+	  
+	  
+	  #form1{
+	  
+		  width:100%;
+		  min-width:260px;
+		 
+	  
+		  
+		  min-height: 600px !important;
+		  margin: auto;
+		  padding: 20px;
+		  box-shadow: 0 4px 8px 0 rgb(0,0,0,0.5);
+		  display: block;
+		  flex-wrap: wrap;
+		  justify-content: space-between;
+		
+		  border-radius: 2px;
+		  position: relative;
+		
+		 
+	  }
+	  
+
+
+
+	  .dotWrap{
+
+		text-align:center;
+		display: flex;
+		position: absolute;
+		top:33em;
+		left:42%;
+		z-index: 999;
+		
+	
+	}
+	
+	
+	.dot {
+	  cursor:pointer;
+	  height: 13px;
+	  width: 13px;
+	  margin: 0 2px;
+	  background-color: #bbb;
+	  border-radius: 50%;
+	  display: inline-block;
+	  transition: background-color 0.6s ease;
+	  position: inherit;
+	  
+	  /*top:30em;*/
+	  
+	
+	}
+
+
+
+}
+
+
+
+
+
+/****************** Height 800px and below**************************************/
+
+@media (max-height: 800px) {
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+/****************** Height 740px and below**************************************/
+
+@media (max-height: 740px) {
+
+
+
+
+	dialog{
+  
+		width:100%;
+		height: auto;
+		background-color: white;
+		border: none;
+		display: flex;
+		top:5em;
+		
+		z-index: 996;
+		position: fixed;
+	  
+		left:0;
+		
+	  }
+	  
+	  dialog::backdrop{
+		background-color: #000;
+		opacity: 60%;
+	  }
+	  
+	  
+	  
+	  #form1{
+	  
+		  width:100%;
+		  min-width:260px;
+		 
+	  
+		  
+		  min-height: 550px !important;
+		  margin: auto;
+		  padding: 20px;
+		  box-shadow: 0 4px 8px 0 rgb(0,0,0,0.5);
+		  display: block;
+		  flex-wrap: wrap;
+		  justify-content: space-between;
+		
+		  border-radius: 2px;
+		  position: relative;
+		
+		 
+	  }
+	  
+
+
+	  .dotWrap{
+
+		text-align:center;
+		display: flex;
+		position: absolute;
+		top:30em;
+		left:42%;
+		z-index: 999;
+		
+	
+	}
+	
+
+
+}
+
+
+
+
+
+/****************** Height 736px and below**************************************/
+
+@media (max-height: 736px) {
+
+
+
+
+
+
+}
+
+
+
+
+
+/****************** Height 720px and below**************************************/
+
+@media (max-height: 720px) {
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+/****************** Height 667px and below**************************************/
+
+@media (max-height: 667px) {
+
+
+
+
+	dialog{
+  
+		width:100%;
+		height: auto;
+		background-color: white;
+		border: none;
+		display: flex;
+		top:5em;
+		
+		z-index: 996;
+		position: fixed;
+	  
+		left:0;
+		
+	  }
+	  
+	  dialog::backdrop{
+		background-color: #000;
+		opacity: 60%;
+	  }
+	  
+	  
+	  
+	  #form1{
+	  
+		  width:100%;
+		  min-width:260px;
+		 
+	  
+		  
+		  min-height: 500px !important;
+		  margin: auto;
+		  padding: 20px;
+		  box-shadow: 0 4px 8px 0 rgb(0,0,0,0.5);
+		  display: block;
+		  flex-wrap: wrap;
+		  justify-content: space-between;
+		
+		  border-radius: 2px;
+		  position: relative;
+		
+		 
+	  }
+	  
+
+	
+	  .dotWrap{
+
+		text-align:center;
+		display: flex;
+		position: absolute;
+		top:27em;
+		left:42%;
+		z-index: 999;
+		
+	
+	}
+	  
+
+
+}
+
+
+
+/****************** Height 640px and below**************************************/
+
+@media (max-height: 640px) {
+
+
+
+
+
+
+}
+
+
+
+/****************** Height 600px and below**************************************/
+
+@media (max-height: 600px) {
+
+
+
+
+
+
 }
