@@ -2,7 +2,7 @@
     "projects": [
         {
             "title": "Agent Life CRM",
-            "imgPath": "../assets/images/agent/thumb1.png",
+            "imgPath": "assets/images/agent/thumb1.png",
             "imgBig": "thumb1",
             "alt": "Agent Life CRM",
             "descript": "Used Angular to design front end and Java for backend business data. This CRM is for Life Insurance Agents, it helps track leads, appointments, and other useful data to help agent make critical decisions. User can also run sms campaigns that allow agents to comunicate with leads on demand. Before contacting a lead you can check to see its safe to do so buy doing a phone number look up or phone number scrub.",
