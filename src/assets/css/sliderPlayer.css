@@ -6616,7 +6616,7 @@ button[name^="closePic"]{
 		justify-content: space-between;
 		border-radius: 2px;
 	   
-		background-color: red;
+		/*background-color: red;*/
 		
 		position: absolute;
 		/*top:1em;
@@ -6658,7 +6658,7 @@ button[name^="closePic"]{
 		
 		top:0;
 
-		background-color: hsl(191, 94%, 51%);
+		/*background-color: hsl(191, 94%, 51%);*/
 		
 	
 		
@@ -6701,7 +6701,7 @@ button[name^="closePic"]{
 		/*padding:5px;*/
 
 		
-		background-color: blue;
+		/*background-color: blue;*/
 
 		position: relative;
 		/*display: flex;*/
@@ -6725,7 +6725,7 @@ button[name^="closePic"]{
 		width: 100% !important;
 		position: relative;
 	
-	    background-color: #fff;
+	    /*background-color: #fff;*/
 		margin: 15px !important;
 		
 		max-height:200px !important;

@@ -1,0 +1,58 @@
+.dropdown-menu{
+
+    background-color: gray !important;
+    opacity: .9;
+    width:auto !important;
+    /*max-width: 420px;*/
+    position: relative;
+    float: left;
+    /*top:-6em !important;*/
+   
+}
+
+
+div[name^="nav2"] li{
+
+
+    width:100% !important;
+    min-width: 420px;
+
+ 
+
+}
+
+
+.hamburg1{
+
+
+  color: #fff !important;
+  font-size: 12px !important;
+  text-align: center !important;
+  position: absolute;
+}
+
+
+/**************420px***************************/
+ @media (max-width: 420px) {
+
+  ul[name^="nav1"]{
+
+    visibility: hidden !important;
+
+  }
+
+  .dropdown{
+
+
+    display: block !important;
+    left:2em;
+
+  
+
+}
+
+
+
+
+  
+}
