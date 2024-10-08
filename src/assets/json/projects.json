@@ -2,7 +2,7 @@
     "projects": [
         {
             "title": "Agent Life CRM",
-            "imgPath": "../portfolio2/assets/images/agent/thumb1.png",
+            "imgPath": "../assets/images/agent/thumb1.png",
             "imgBig": "thumb1",
             "alt": "Agent Life CRM",
             "descript": "Used Angular to design front end and Java for backend business data. This CRM is for Life Insurance Agents, it helps track leads, appointments, and other useful data to help agent make critical decisions. User can also run sms campaigns that allow agents to comunicate with leads on demand. Before contacting a lead you can check to see its safe to do so buy doing a phone number look up or phone number scrub.",
@@ -10,7 +10,7 @@
         },
         {
             "title": "Agent Life CRM",
-            "imgPath": "../portfolio2/assets/images/agent/thumb3.png",
+            "imgPath": "assets/images/agent/thumb3.png",
             "imgBig": "thumb3",
             "alt": "Agent Life CRM",
             "descript": "Used Angular to design front end and Java for backend business data. This CRM is for Life Insurance Agents, it helps track leads, appointments, and other useful data to help agent make critical decisions. User can also run sms campaigns that allow agents to comunicate with leads on demand. Before contacting a lead you can check to see its safe to do so buy doing a phone number look up or phone number scrub.",
@@ -18,7 +18,7 @@
         },
         {
             "title": "Agent Life CRM",
-            "imgPath": "../portfolio2/assets/images/agent/thumb5.png",
+            "imgPath": "assets/images/agent/thumb5.png",
             "imgBig": "thumb5",
             "alt": "Agent Life CRM",
             "descript": "Used Angular to design front end and Java for backend business data. This CRM is for Life Insurance Agents, it helps track leads, appointments, and other useful data to help agent make critical decisions. User can also run sms campaigns that allow agents to comunicate with leads on demand. Before contacting a lead you can check to see its safe to do so buy doing a phone number look up or phone number scrub.",
@@ -26,7 +26,7 @@
         },
         {
             "title": "Agent Life CRM",
-            "imgPath": "../portfolio2/assets/images/agent/thumb4.png",
+            "imgPath": "assets/images/agent/thumb4.png",
             "imgBig": "thumb4",
             "alt": "Agent Life CRM",
             "descript": "Used Angular to design front end and Java for backend business data. This CRM is for Life Insurance Agents, it helps track leads, appointments, and other useful data to help agent make critical decisions. User can also run sms campaigns that allow agents to comunicate with leads on demand. Before contacting a lead you can check to see its safe to do so buy doing a phone number look up or phone number scrub.",
@@ -40,7 +40,7 @@
     "projects2": [
         {
             "title": "Life Insurance Agent Site",
-            "imgPath": "../portfolio2/assets/images/life/thumb1.png",
+            "imgPath": "assets/images/life/thumb1.png",
             "imgBig": "thumb1",
             "alt": "Life Insurance Agent Site",
             "descript": "Used Angular to design front end and Java for backend business data. This site helps financial professionals secure more leads and retainment through an online innovative process. ",
@@ -48,7 +48,7 @@
         },
         {
             "title": "Life Insurance Agent Site",
-            "imgPath": "../portfolio2/assets/images/life/thumb2.png",
+            "imgPath": "assets/images/life/thumb2.png",
             "imgBig": "thumb2",
             "alt": "Life Insurance Agent Site",
             "descript": "This job for life insurance website",
@@ -56,7 +56,7 @@
         },
         {
             "title": "Life Insurance Agent Site",
-            "imgPath": "../portfolio2/assets/images/life/thumb3.png",
+            "imgPath": "assets/images/life/thumb3.png",
             "imgBig": "thumb3",
             "alt": "Life Insurance Agent Site",
             "descript": "Bot designed to help sneaker heads buy hot pair of shoes when they first drop. Bot connects to site using HttpConnection with headers attached to implement cookies and other info needed for successful connection. JSoup was used to scrap site data that let the user know when shoes are in stock. Available shoe sizes are put into Array List and then uses rand function to randomly select a sneaker. Jackson library decoded site data used to order sneakers.",
@@ -64,7 +64,7 @@
         },
         {
             "title": "Life Insurance Agent Site",
-            "imgPath": "../portfolio2/assets/images/life/thumb4.png",
+            "imgPath": "assets/images/life/thumb4.png",
             "imgBig": "thumb4",
             "alt": "Life Insurance Agent Site",
             "descript": "Used Java and Data For Seo Api to design software for user to help rank website better, spy on competition and much more. This software relied heavily on the use of functional programming and streams to speed up coding time.",
@@ -77,7 +77,7 @@
     "projects3": [
         {
             "title": "Sneaker Bot",
-            "imgPath": "../portfolio2/assets/images/sneaker/thumb1.png",
+            "imgPath": "assets/images/sneaker/thumb1.png",
             "imgBig": "thumb1",
             "alt": "Sneaker Bot",
             "descript": "Bot designed to help sneaker heads buy hot pair of shoes when they first drop. Bot connects to site using HttpConnection with headers attached to implement cookies and other info needed for successful connection",
@@ -85,7 +85,7 @@
         },
         {
             "title": "Sneaker Bot",
-            "imgPath": "../portfolio2/assets/images/sneaker/thumb2.png",
+            "imgPath": "assets/images/sneaker/thumb2.png",
             "imgBig": "thumb2",
             "alt": "Sneaker Bot",
             "descript": "Bot offers a variety of search metrics such as search by size, random size, random shoe and much more, bot uses browser to act as live user agent.",
@@ -93,7 +93,7 @@
         },
         {
             "title": "Sneaker Bot",
-            "imgPath": "../portfolio2/assets/images/sneaker/thumb3.png",
+            "imgPath": "assets/images/sneaker/thumb3.png",
             "imgBig": "thumb3",
             "alt": "Sneaker Bot",
             "descript": "Staying hidden is a good idea, therefore user has the ability to run tasks using a proxy list, proxies are rotated automatically, to help insure safe browsing, using high quality proxies is a great idea. ",
@@ -101,7 +101,7 @@
         },
         {
             "title": "Sneaker Bot",
-            "imgPath": "../portfolio2/assets/images/sneaker/thumb4.png",
+            "imgPath": "assets/images/sneaker/thumb4.png",
             "imgBig": "thumb4",
             "alt": "Sneaker Bot",
             "descript": "Used Java and Data For Seo Api to design software for user to help rank website better, spy on competition and much more. This software relied heavily on the use of functional programming and streams to speed up coding time.",
@@ -114,7 +114,7 @@
     "projects4": [
         {
             "title": "Traffic God",
-            "imgPath": "../portfolio2/assets/images/seo/thumb1.png",
+            "imgPath": "assets/images/seo/thumb1.png",
             "imgBig": "thumb1",
             "alt": "Traffic God",
             "descript": "Used Java with Spring Mvc and Thymeleaf  to create Seo app that can help user rank site higher in search engines. App allows user to spy on competition keywords and much more. User can also chose to use different search engines.",
@@ -122,7 +122,7 @@
         },
         {
             "title": "Traffic God",
-            "imgPath": "../portfolio2/assets/images/seo/thumb2.png",
+            "imgPath": "assets/images/seo/thumb2.png",
             "imgBig": "thumb2",
             "alt": "Traffic God",
             "descript": "This software relied heavily on the use of functional programming and streams to speed up coding time. The use of functional programming with streams helped increase production time by more than 15%.",
@@ -130,7 +130,7 @@
         },
         {
             "title": "Traffic God",
-            "imgPath": "../portfolio2/assets/images/seo/thumb3.png",
+            "imgPath": "assets/images/seo/thumb3.png",
             "imgBig": "thumb3",
             "alt": "Traffic God",
             "descript": "A few of the data strucutes used in this app frequently are Stacks, Ques, HashMaps and ArrayList, Parts of this app uses 3rd party API's to collect the data needed for the seo opperations.",
@@ -138,7 +138,7 @@
         },
         {
             "title": "Traffic God",
-            "imgPath": "../portfolio2/assets/images/seo/thumb4.png",
+            "imgPath": "assets/images/seo/thumb4.png",
             "imgBig": "thumb4",
             "alt": "Traffic God",
             "descript": "This app started as a Java Fx project and then migrated over to Spring Mvc for a multitude of reasons, some being Spring Security, better performace, and deliveralbility and a host of other things.",
@@ -151,7 +151,7 @@
     "projects5": [
         {
             "title": "NFT Creator",
-            "imgPath": "../portfolio2/assets/images/nft/thumb1.png",
+            "imgPath": "assets/images/nft/thumb1.png",
             "imgBig": "thumb1",
             "alt": "NFT Creator",
             "descript": "Used Java to create NFT creation software, this software takes random images from folder and then stacks them in different layers to create unique NFT art. This system relies on Array Lists to gather folder details. A user can create thousands of unique NFTs in the matter of seconds.",
@@ -159,7 +159,7 @@
         },
         {
             "title": "NFT Creator",
-            "imgPath": "../portfolio2/assets/images/nft/thumb2.png",
+            "imgPath": "assets/images/nft/thumb2.png",
             "imgBig": "thumb2",
             "alt": "NFT Creator",
             "descript": "Used Java to create NFT creation software, this software takes random images from folder and then stacks them in different layers to create unique NFT art. This system relies on Array Lists to gather folder details. A user can create thousands of unique NFTs in the matter of seconds.",
@@ -167,7 +167,7 @@
         },
         {
             "title": "NFT Creator",
-            "imgPath": "../portfolio2/assets/images/nft/thumb5.png",
+            "imgPath": "assets/images/nft/thumb5.png",
             "imgBig": "thumb5",
             "alt": "NFT Creator",
             "descript": "Used Java to create NFT creation software, this software takes random images from folder and then stacks them in different layers to create unique NFT art. This system relies on Array Lists to gather folder details. A user can create thousands of unique NFTs in the matter of seconds.",
@@ -175,7 +175,7 @@
         },
         {
             "title": "NFT Creator",
-            "imgPath": "../portfolio2/assets/images/nft/thumb6.png",
+            "imgPath": "assets/images/nft/thumb6.png",
             "imgBig": "thumb6",
             "alt": "NFT Creator",
             "descript": "Used Java to create NFT creation software, this software takes random images from folder and then stacks them in different layers to create unique NFT art. This system relies on Array Lists to gather folder details. A user can create thousands of unique NFTs in the matter of seconds.",
@@ -188,7 +188,7 @@
     "projects6": [
         {
             "title": "Music Manager",
-            "imgPath": "../portfolio2/assets/images/music/thumb1.png",
+            "imgPath": "assets/images/music/thumb1.png",
             "imgBig": "thumb1",
             "alt": "Music Manager",
             "descript": "Music managing site built with Angular, Java, and Spring Boot. Site focus is to help artist manage their music carear, sell beats, track royalties and much much more.",
@@ -196,7 +196,7 @@
         },
         {
             "title": "Music Manager",
-            "imgPath": "../portfolio2/assets/images/music/thumb2.png",
+            "imgPath": "assets/images/music/thumb2.png",
             "imgBig": "thumb2",
             "alt": "Music Manager",
             "descript": "This job for life insurance website",
@@ -204,7 +204,7 @@
         },
         {
             "title": "Music Manager",
-            "imgPath": "../portfolio2/assets/images/music/thumb3.png",
+            "imgPath": "assets/images/music/thumb3.png",
             "imgBig": "thumb3",
             "alt": "Music Manager",
             "descript": "Bot designed to help sneaker heads buy hot pair of shoes when they first drop. Bot connects to site using HttpConnection with headers attached to implement cookies and other info needed for successful connection. JSoup was used to scrap site data that let the user know when shoes are in stock. Available shoe sizes are put into Array List and then uses rand function to randomly select a sneaker. Jackson library decoded site data used to order sneakers.",
@@ -212,7 +212,7 @@
         },
         {
             "title": "Music Manager",
-            "imgPath": "../portfolio2/assets/images/music/thumb4.png",
+            "imgPath": "assets/images/music/thumb4.png",
             "imgBig": "thumb4",
             "alt": "Music Manager",
             "descript": "Used Java and Data For Seo Api to design software for user to help rank website better, spy on competition and much more. This software relied heavily on the use of functional programming and streams to speed up coding time.",
@@ -225,7 +225,7 @@
     "projectCover": [
         {
             "title": "Projects",
-            "imgPath": "../../portfolio/images/PipeLine6.jpg",
+            "imgPath": "images/PipeLine6.jpg",
             "descript": "Click one of the dots bellow to learn more about this project..."
         }
     ]

@@ -429,7 +429,8 @@ div{
 	justify-content: space-between;
 	margin: 0 auto;
 	left:-5px;
-	top:1em;
+	/*top:1em;*/
+	top:-.8em !important;
 	/*background-color: #EF0509;*/
 
 	
@@ -6551,10 +6552,318 @@ button[name^="closePic"]{
 		  position: relative;
 		  /*background-color: red;*/
 		 
+		  
+		 
 	  }
 	  
 
 
+	  .dotWrap{
+
+		text-align:center;
+		display: flex;
+		position: absolute;
+		top:40em !important;
+		left:38%;
+		z-index: 999;
+		
+	
+	}
+	
+	
+	.dot {
+	  cursor:pointer;
+	  height: 16px;
+	  width: 16px;
+	  margin: 0 2px;
+	  background-color: #bbb;
+	  border-radius: 50%;
+	  display: inline-block;
+	  transition: background-color 0.6s ease;
+	  position: inherit;
+	  
+	  /*top:30em;*/
+	  
+	
+	}
+
+
+
+
+
+	  
+	#jobDescrpitBox2{
+
+
+	 /*overflow-y: auto;*/
+	 
+	
+
+
+		width:100%;
+		height: 350px !important;
+	   
+		color: #000;
+		
+		/*max-width: 1200px;*/
+	
+		
+		margin: auto;
+		padding: 5px;
+		/*box-shadow: 0 0px 8px 0 rgb(0,0,0,0.5);*/
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		border-radius: 2px;
+	   
+		background-color: red;
+		
+		position: absolute;
+		/*top:1em;
+		/*top: -10px;*/
+		
+		font-size: 14px;
+		top:-1em;
+		overflow-y: auto;
+		
+	
+	
+	}
+
+
+
+
+
+	  #releases ul{
+		list-style-type: none;
+		
+		width: 100%;
+		
+		
+		min-height: 680px !important;
+		height: auto;
+		
+	
+		
+		display:inline-flex;
+		flex-direction: column;
+		/*display:block;*/
+
+		position: absolute;
+		align-items: stretch;
+		justify-content: space-between;
+		margin: 0 auto;
+		left: -.8em;
+
+		
+		top:0;
+
+		background-color: hsl(191, 94%, 51%);
+		
+	
+		
+	}
+
+
+
+	#releases ul li{
+	
+		vertical-align: top;     
+
+		/*display: flex !important;
+		align-items: center !important;
+		position: relative !important;*/
+	
+
+		/*top:100px;*/
+		/*position: absolute;*/
+	  
+		/*margin-right: 30px;*/
+	   
+	  
+		/*width: 450px;*/
+		
+
+		/*left: 150px;*/
+	  
+		margin: 0 auto;
+		/*box-shadow: 0 2px 6px 0 rgb(0,0,0,0.5);*/
+		
+		/*background-color: yellow;*/
+		/*flex: 0 1 auto;*/ /* Default */
+	}
+	  
+
+	
+
+	.descript-li{
+
+		/*padding:5px;*/
+
+		
+		background-color: blue;
+
+		position: relative;
+		/*display: flex;*/
+
+		
+		/*top:-3em;*/
+		top:-3em;
+		left: -1.2em !important;
+		height: auto !important;
+		overflow: hidden;
+	   
+	
+	 
+	  
+	  }
+	  
+	  .feat-img-li{
+	  
+	  
+		
+		width: 100% !important;
+		position: relative;
+	
+	    background-color: #fff;
+		margin: 15px !important;
+		
+		max-height:200px !important;
+		height: auto !important;
+	
+		
+		
+		
+		/*max-height: 600px;*/
+
+		/*display: flex;
+		flex-direction: column;*/
+		  
+		z-index: 997;
+		
+	  }
+
+
+
+
+	  .thumb{
+
+	
+
+		/*width:450px;
+		height:450px;*/
+		
+		position: relative;
+		/*top:1em;*/
+		top:0;
+		left: -15px;
+		
+		width:100%;
+		box-shadow: 0 4px 8px 0 rgb(0,0,0,0.5);
+		border: solid thin #000 !important;
+		border-radius: 5px;
+		margin: 5px;
+		
+	
+	}
+
+	
+	.descript-Title{
+	
+		font-weight: 600;
+		font-size: 16px;
+		position: absolute;
+		/*top:-3.5em;*/
+		top:0em;
+	
+	}	
+	
+	
+	
+	
+		.descripTxt{
+	
+	
+			color: #000;
+			
+			font-size: 14px;
+			display: block;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			position: relative;
+			top:1em;
+		
+		
+		
+		}
+		
+		
+		
+		.techTitle{
+		
+		
+			color: #000;
+			font-weight: 600;
+			font-size: 16px;
+			display: block;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			position: relative;
+			top:0em;
+		
+		
+		
+		}
+		
+	
+		.techDescript{
+	
+			color: #000;
+			font-size: 14px;
+			display: block;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			position: relative;
+			top:0em;
+		
+	
+	
+			
+		}
+		
+		
+		.title{
+		
+		
+			position: relative;
+			/*top:1.5em;*/
+			top:0;
+			font-size: 18px;
+			font-weight: bold;
+			left:0 ;
+			/*top:5px;*/
+			/*top:32em;*/
+			/*z-index: 999;*/
+		
+		
+		
+		}
+		
+		
+		
+		.CoverTitle{
+		
+		
+			position: relative;
+			top:6.5em;
+			font-size: 28px;
+			font-weight: bold;
+			/*left:21em ;*/
+			text-align: center;
+			width: 100%;
+		
+		
+		}
 
 
 }
@@ -6613,41 +6922,77 @@ button[name^="closePic"]{
 		
 		  border-radius: 2px;
 		  position: relative;
+		  overflow: hidden;
 		
 		 
 	  }
 	  
 
 
+	  #jobDescrpitBox2{
+
+
+		   height: 300px !important;
+		  
+		
+	   
+	   }
+   
 
 	  .dotWrap{
 
 		text-align:center;
 		display: flex;
 		position: absolute;
-		top:33em;
-		left:42%;
+		top:34em !important;
+		left:38%;
 		z-index: 999;
 		
 	
 	}
+
+
+	  #releases ul{
+		list-style-type: none;
+		
+		width: 100%;
+		
+		
+		/*min-height: 500px !important;*/
+		height: auto;
+		
 	
+		
+		display:inline-flex;
+		flex-direction: column;
+		/*display:block;*/
+
+		position: absolute;
+		align-items: stretch;
+		justify-content: space-between;
+		margin: 0 auto;
+		left: -.8em;
+
+		
+		top:0;
+		overflow-y: scroll;
+
+		
 	
-	.dot {
-	  cursor:pointer;
-	  height: 13px;
-	  width: 13px;
-	  margin: 0 2px;
-	  background-color: #bbb;
-	  border-radius: 50%;
-	  display: inline-block;
-	  transition: background-color 0.6s ease;
-	  position: inherit;
-	  
-	  /*top:30em;*/
-	  
-	
+		
 	}
+
+
+	.descript-li{
+
+
+		top:-5em;
+
+	 
+	  
+	  }
+
+
 
 
 
@@ -6688,7 +7033,7 @@ button[name^="closePic"]{
 		background-color: white;
 		border: none;
 		display: flex;
-		top:5em;
+		top:3.5em;
 		
 		z-index: 996;
 		position: fixed;
@@ -6696,13 +7041,7 @@ button[name^="closePic"]{
 		left:0;
 		
 	  }
-	  
-	  dialog::backdrop{
-		background-color: #000;
-		opacity: 60%;
-	  }
-	  
-	  
+
 	  
 	  #form1{
 	  
@@ -6711,7 +7050,7 @@ button[name^="closePic"]{
 		 
 	  
 		  
-		  min-height: 550px !important;
+		  min-height: 560px !important;
 		  margin: auto;
 		  padding: 20px;
 		  box-shadow: 0 4px 8px 0 rgb(0,0,0,0.5);
@@ -6729,17 +7068,57 @@ button[name^="closePic"]{
 
 	  .dotWrap{
 
-		text-align:center;
-		display: flex;
-		position: absolute;
-		top:30em;
-		left:42%;
-		z-index: 999;
+		
+		top:32em !important;
+		left:36% !important;
+
 		
 	
 	}
+
+
+
+
+	#releases ul{
+	
+		
+		min-height: 700px !important;
+		height: auto;
+	
+		
+	}
+
+
+
+
+	.descript-li{
+
+		
+		/*top:-3em;*/
+		top:-7em;
+		left: -1.2em !important;
+		height: 150px !important;
+		
+	   
+	
+	 
+	  
+	  }
 	
 
+
+	  .feat-img-li{
+	  
+	  
+		
+		max-height:190px !important;
+	
+	
+		
+	  }
+
+
+	  
 
 }
 
@@ -6752,6 +7131,13 @@ button[name^="closePic"]{
 @media (max-height: 736px) {
 
 
+	#releases ul{
+	
+		top: -2em;
+		
+	
+		
+	}
 
 
 
@@ -6776,6 +7162,15 @@ button[name^="closePic"]{
 
 
 
+/****************** Height 684px and below**************************************/
+
+@media (max-height: 684px) {
+
+
+
+
+
+}
 
 
 
@@ -6785,66 +7180,19 @@ button[name^="closePic"]{
 @media (max-height: 667px) {
 
 
-
-
-	dialog{
-  
-		width:100%;
-		height: auto;
-		background-color: white;
-		border: none;
-		display: flex;
-		top:5em;
-		
-		z-index: 996;
-		position: fixed;
-	  
-		left:0;
-		
-	  }
-	  
-	  dialog::backdrop{
-		background-color: #000;
-		opacity: 60%;
-	  }
-	  
-	  
-	  
-	  #form1{
-	  
-		  width:100%;
-		  min-width:260px;
-		 
-	  
-		  
-		  min-height: 500px !important;
-		  margin: auto;
-		  padding: 20px;
-		  box-shadow: 0 4px 8px 0 rgb(0,0,0,0.5);
-		  display: block;
-		  flex-wrap: wrap;
-		  justify-content: space-between;
-		
-		  border-radius: 2px;
-		  position: relative;
-		
-		 
-	  }
-	  
-
 	
 	  .dotWrap{
 
-		text-align:center;
-		display: flex;
-		position: absolute;
-		top:27em;
+		top:32em !important;
 		left:42%;
-		z-index: 999;
+	
 		
 	
 	}
 	  
+
+	
+	
 
 
 }
@@ -6856,6 +7204,58 @@ button[name^="closePic"]{
 @media (max-height: 640px) {
 
 
+
+	dialog{
+  
+		width:100%;
+		height: auto;
+	
+	
+	
+		
+	  }
+
+	  
+	  #form1{
+	  
+		 
+		  min-width:260px;
+		 
+	  
+		  
+		  min-height: 560px !important;
+		  
+		
+		 
+		
+		
+		 
+	  }
+
+
+	#releases ul{
+	
+		min-height: 780px !important;
+		height: auto;
+		
+	
+		
+	}
+
+
+	.descript-li{
+
+		
+		/*top:-3em;*/
+		top:-10.5em;
+		
+		height: 100px !important;
+		
+	   
+	
+	 
+	  
+	  }
 
 
 

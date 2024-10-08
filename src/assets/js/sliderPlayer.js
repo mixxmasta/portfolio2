@@ -1,7 +1,7 @@
 $(document).ready(function(){
   //alert("hello");
-   let release = "../portfolio2/assets/json/projects.json";
-   let defaultImg = "../../portfolio2/images/PipeLine6.jpg";
+   let release = "assets/json/projects.json";
+   let defaultImg = "images/PipeLine6.jpg";
    let myData,myText3, coverData, coverDataDiv,projectList,slideShow, grid;
 
    let slideShow1, slideShow2, slideShow3, slideShow4, slideShow5, slideShow6;
@@ -68,7 +68,7 @@ function headerSettings(){
     'dataType': "json",
     "async": true,
     "crossDomain": true,
-    "url": "../portfolio2/assets/json/projects.json",
+    "url": "assets/json/projects.json",
     "method": "GET",
     "headers": {
     "accept": "application/json",
@@ -135,7 +135,7 @@ function loadSlide(){
     
      toggleFeatOverlay();
 
-      let myurl = "../../portfolio2/assets/images/agent/";
+      let myurl = "assets/images/agent/";
       let myIn;
       myIn = $('#imgBox').attr('src',myurl+$(this).attr('name')+".png", +('alt'));
 
@@ -261,7 +261,7 @@ function loadSlide2(){
 
       toggleFeatOverlay();
 
-      let myurl = "../../portfolio2/assets/images/life/";
+      let myurl = "assets/images/life/";
       let myIn;
       myIn = $('#imgBox').attr('src',myurl+$(this).attr('name')+".png", +('alt'));
 
@@ -404,7 +404,7 @@ function loadSlide3(){
     $('#releases img').click(function(){
 
       toggleFeatOverlay();
-      let myurl = "../../portfolio2/assets/images/sneaker/";
+      let myurl = "assets/images/sneaker/";
       let myIn;
       myIn = $('#imgBox').attr('src',myurl+$(this).attr('name')+".png", +('alt'));
 
@@ -520,7 +520,7 @@ function loadSlide4(){
 
       toggleFeatOverlay();
 
-      let myurl = "../../portfolio2/assets/images/seo/";
+      let myurl = "assets/images/seo/";
       let myIn;
       myIn = $('#imgBox').attr('src',myurl+$(this).attr('name')+".png", +('alt'));
 
@@ -662,7 +662,7 @@ function loadSlide5(){
 
       toggleFeatOverlay();
 
-      let myurl = "../../portfolio2/assets/images/nft/";
+      let myurl = "assets/images/nft/";
       let myIn;
       myIn = $('#imgBox').attr('src',myurl+$(this).attr('name')+".png", +('alt'));
 
@@ -801,7 +801,7 @@ function loadSlide6(){
 
       toggleFeatOverlay();
 
-      let myurl = "../../portfolio2/assets/images/music/";
+      let myurl = "assets/images/music/";
       let myIn;
       myIn = $('#imgBox').attr('src',myurl+$(this).attr('name')+".png", +('alt'));
 
